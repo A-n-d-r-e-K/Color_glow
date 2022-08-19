@@ -1,0 +1,42 @@
+@media screen and ( max-width: 1000px )
+{
+    .button-center
+    {
+        padding: 40px 20px;
+    }
+    .button-center-1
+    {
+        padding: 0 0 20px 0;
+    }
+    .button-center-2
+    {
+        padding: 20px 0 0 0;
+    }
+
+    .button-1
+    {
+        height: 70px;
+        width: 220px;
+    }
+    .button-1 button
+    {
+        height: 60px;
+        width: 210px;
+    }
+
+    .button-2
+    {
+        height: 220px;
+        width: 220px;
+    }
+    .button-2 button
+    {
+        height: 200px;
+        width: 200px;
+    }
+
+    .button button
+    {
+        font-size: 16px;
+    }
+}
